@@ -1,0 +1,13 @@
+name = "Spring"
+uuid = "49240c5d-3dff-46ef-be80-a54cff14b6c2"
+authors = ["Mondher CHEKKI <mondher.chekki@univ-grenoble-alpes.fr>"]
+version = "0.1.0"
+
+[compat]
+julia = "^1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
